@@ -13,6 +13,8 @@ public class KeyboardInput {
 
         System.out.print("Enter to: ");
         int to = scanner.nextInt();
+        
+        scanner.close();
 
         while (from <= to) {
             System.out.print(from + " ");
