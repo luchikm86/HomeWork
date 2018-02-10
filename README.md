@@ -1,7 +1,7 @@
 # HomeWork
 JavaStart
 
-Java Start. HW. Level 0. Loops + Conditions
+<b>Java Start. HW. Level 0. Loops + Conditions</b>
 
 Условные конструкции:
 
