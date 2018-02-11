@@ -4,7 +4,9 @@ public class MinOfThree {
 
 
     public static void main(String[] args) {
-        int a = 3, b = 8, c = -5;
+        int a = 3;
+        int b = 8;
+        int c = -5;
 
         int d = Math.min(a, b);
         int min = Math.min(d, c);
