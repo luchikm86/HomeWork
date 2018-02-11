@@ -4,7 +4,8 @@ public class MinOfTwo {
 
     public static void main(String[] args) {
 
-        int a = 4, b = 8;
+        int a = 4, 
+        int b = 8;
 
         int c = Math.min(a, b);
 
